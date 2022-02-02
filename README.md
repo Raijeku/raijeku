@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on optimizing pulses on IBM quantum devices, analyzing my quantum k-means implementation and constellation modulation. I'm also working on my personal website!
 - 🌱 I’m currently learning japanese and constellation diagrams in optics.
 - 👯 I’m looking to collaborate on quantum machine learning and quantum benchmarking projects. Classical machine learning application projects too.
-- 🤔 I’m looking for help with getting a job on quantum computing.
+- 🤔 I’m looking for help with getting a job as a developer.
 - 💬 Ask me about anything math or quantum related.
 - 📫 How to reach me: Email me at raijeku@gmail.com
 - ⚡ Fun fact: I love learning in general, be it languages, physics or just interesting stuff.
