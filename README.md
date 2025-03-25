@@ -1,10 +1,10 @@
 ### Hi there, I'm David 👋
 
-- 🔭 I’m currently working on optimizing pulses on IBM quantum devices, analyzing my quantum k-means implementation, quantum walks and constellation modulation. I'm also working on my personal website!
-- 🌱 I’m currently learning about the Quantum Approximate Optimization Algorithm (QAOA), quantum walks and constellation diagrams in optics.
-- 👯 I’m looking to collaborate on quantum machine learning and quantum benchmarking projects. Classical machine learning application projects too.
+- 🔭 I’m currently working on variational quantum algorithms for finding excited states using implicit deflation techniques.
+- 🌱 I’m currently learning about the Quantum Adiabatic Algorithm (QAA), Grover's algorithm, and their applications.
+- 👯 I’m looking to collaborate on quantum optimization and quantum machine learning projects.
 - 🤔 I’m looking for help with improving my open source projects.
-- 💬 Ask me about anything math or quantum related.
+- 💬 Ask me about anything quantum optimization related.
 - 📫 How to reach me: Email me at raijeku@gmail.com
 - ⚡ Fun fact: I love learning in general, be it languages, physics or just interesting stuff.
 
